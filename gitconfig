@@ -1,0 +1,9 @@
+[user]
+    email = osamu0329nakamura@gmail.com
+    name = Osamu NAKAMURA
+[credential]
+    helper = wincred
+    helper = cache
+    
+[core]
+    editor = nvim

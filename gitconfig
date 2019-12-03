@@ -2,7 +2,7 @@
     email = osamu0329nakamura@gmail.com
     name = Osamu NAKAMURA
 [credential]
-    helper = wincred
+    #helper = wincred
     helper = cache
     
 [core]
